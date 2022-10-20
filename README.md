@@ -4,7 +4,7 @@
 
 An app that gives you a space to journal, label emotions, and track lifestyle habits (like water intake, sleep, gratitude, etc). Also, make lists like morning/night routines and feel-good hobbies/tasks.
 
-Introduction to app: [Idea Presentation](https://www.youtube.com/watch?v=bbM1T8wtLPI)
+Introduction to app: [Idea Presentation & Demo](https://youtu.be/vG4ILmVd5TI)
 
 ![](./unwind%20images/diary.png)
 ![](./unwind%20images/feed.png)
